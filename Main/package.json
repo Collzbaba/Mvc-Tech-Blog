@@ -1,0 +1,26 @@
+{
+  "name": "mvc-tech-blog",
+  "version": "1.0.0",
+  "description": "tech-blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Collzbaba/Mvc-Tech-Blog.git"
+  },
+  "keywords": [
+    "mvc-tech-blogger"
+  ],
+  "author": "Blessed Adodo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Collzbaba/Mvc-Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/Collzbaba/Mvc-Tech-Blog#readme",
+  "dependencies": {
+    "pkg": "^5.8.0"
+  }
+}
