@@ -4,14 +4,13 @@
 The Tech Blog is a blog website where developers can publish their blog posts and comment on other developers’ posts as well. This application follows the MVC paradigm and it is using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## Table of Contents
-Deployed Application
-User Story
-Usage
-License
-Contributing
-Questions
-Deployed Application
-Tech Blog Image
+1. Deployed Application
+2. User Story
+3. Usage
+4. License
+5. Questions
+6. Deployed Application
+7. Tech Blog Image
 
 ## User Story
 AS A developer who writes about tech I WANT a CMS-style blog site SO THAT I can publish articles, blog posts, and my thoughts and opinions.....
@@ -59,8 +58,11 @@ THEN I am automatically signed out of the site
 ## License
 This project is licensed under the MIT.
 
-Contributing
-Blessed Adodo
 
 Questions
 If you have any questions about the repository, contact me directly at collzbadodo@gmail.com. You can find more of my work at https://github.com/collzbaba.
+
+## Deployed Application:
+
+## Tech Blog Image
+
