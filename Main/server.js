@@ -1,5 +1,6 @@
 const path = require("path");
 const express = require("express");
+const session = require("express-session");
 
 // helper function
 const helpers = require("./utils/helpers");
@@ -39,6 +40,6 @@ app.set('view engine', 'handlebars');
 
 app.use(require("./controllers/"));
 app.listen(PORT, () => {
-  console.log(`App listening on port ${PORT}!`);
+  console.log(`Now listenening ${PORT} http://localhost:${PORT}`);
   sequelize.sync({ force: false });
 });
