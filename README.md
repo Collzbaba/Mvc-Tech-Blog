@@ -64,5 +64,13 @@ If you have any questions about the repository, contact me directly at collzbado
 
 ## Deployed Application:
 
+
 ## Tech Blog Image
+![screenshots](./img/create-new-post-page.png)
+![screenshots](./img/dashboard-page.png)
+![screenshots](./img/home-page.png)
+![screenshots](./img/main-page.png)
+![screenshots](./img/signin-page.png)
+![screenshots](./img/signup-page.png)
+![screenshots](./img/test-page.png)
 
