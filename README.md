@@ -62,7 +62,10 @@ This project is licensed under the MIT.
 Questions
 If you have any questions about the repository, contact me directly at collzbadodo@gmail.com. You can find more of my work at https://github.com/collzbaba.
 
-## Deployed Application:
+## Heroku Deployed Application:
+
+https://blessed-mvc-tech-blog.herokuapp.com/dashboard
+
 
 
 ## Tech Blog Image
